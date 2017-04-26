@@ -1,0 +1,2 @@
+C:\Xamarin Modulo IV\Cats\Cats\Cats.UWP\Cats.UWP.csproj;x86
+C:\Xamarin Modulo IV\Cats\Cats\Cats\Cats.csproj;neutral
